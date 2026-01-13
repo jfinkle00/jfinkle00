@@ -85,14 +85,6 @@ Classification models predicting bank loan approval based on financial predictor
 
 ---
 
-## 📈 GitHub Stats
-
-![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfinkle00&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfinkle00&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 I'm actively seeking opportunities in **data science, analytics, biostatistics, and data engineering** in the DMV area or remote. Let's talk!
