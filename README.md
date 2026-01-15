@@ -10,7 +10,7 @@
 
 ## 🎯 Currently Seeking
 
-Data Scientist • Data Analyst • Biostatistician • Data Engineer • ML Engineer
+Data Scientist • Data Analyst • Biostatistician • Data Engineer • ML Engineer • Business Analyst
 
 ---
 
