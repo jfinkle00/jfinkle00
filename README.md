@@ -12,7 +12,7 @@
 
 - 🎓 **M.S. Data Science** from American University (GPA: 3.9)
 - 🧬 **B.S. Biology** from The College of New Jersey
-- 💼 Currently a **Data Analyst** at the Plastics Industry Association, building ETL pipelines, forecasting models, and interactive dashboards
+- 💼 Currently a **Data Analyst Intern** at the Plastics Industry Association, building ETL pipelines, forecasting models, and interactive dashboards
 - 📊 Co-authoring research on **NARDL econometric models** for tariff optimization
 - 🏥 Former **Physical Therapy Aide** with hands-on healthcare data workflow experience
 
